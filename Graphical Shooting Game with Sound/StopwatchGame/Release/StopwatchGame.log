@@ -1,8 +1,0 @@
-﻿  main_StopwatchGame.cpp
-main_StopwatchGame.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  StopwatchGame_GameFunc.cpp
-  코드를 생성하고 있습니다.
-  All 205 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  코드를 생성했습니다.
-  StopwatchGame.vcxproj -> C:\Users\kss34\Desktop\2017\대학교\2017년 1학기\과제\게임프로그래밍\Shooting Game with Sound and Text - 201620207 컴퓨터정보공학부 김상순\Release\StopwatchGame.exe
-  StopwatchGame.vcxproj -> C:\Users\kss34\Desktop\2017\대학교\2017년 1학기\과제\게임프로그래밍\Shooting Game with Sound and Text - 201620207 컴퓨터정보공학부 김상순\Release\StopwatchGame.pdb (Full PDB)
