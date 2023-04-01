@@ -1,5 +1,5 @@
 # Graphical Shooting Game with C and SDL Library
-[2017-03-29] A Simple Graphical Shooting Game with C and SDL Library
+[2017-03-30] A Simple Graphical Shooting Game with C and SDL Library
 
 ### 프로그램 개발 환경
 - Language : C
