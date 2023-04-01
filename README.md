@@ -8,7 +8,7 @@
 
 ### 기능 설명
 - C와 SDL 라이브러리를 사용하여 간단하게 제작한 그래픽 슈팅 게임
-- [ASCII Shooting Game](https://github.com/starrykss/C_AsciiShootingGame)을 업그레이드하여 그래픽을 입혔다.
+- 기존에 만들었던 [ASCII Shooting Game](https://github.com/starrykss/C_AsciiShootingGame)에 그래픽을 입혀 업그레이드 하였다.
 - 키보드의 **방향키** (`[←]`, `[→]`, `[↑]`, `[↓]`)를 이동하여 **객체**(`▲`)를 움직일 수 있다.
 - `[Space]`를 누르면 **미사일**(`†`)이 발사된다.
 
