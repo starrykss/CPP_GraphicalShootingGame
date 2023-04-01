@@ -20,4 +20,4 @@
 
 ### 실행 화면
 
-![실행 화면](picture.gif)
+![실행 화면](picture1.gif)
